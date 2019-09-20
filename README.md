@@ -2,9 +2,9 @@
 
 ## Projects
 
- | Project | Team
- | -------- | -----
+  | Project | Team
+  | -------- | -----
  1| Russ College Chatbot | TBA
- 
+
 ## Teams
 
