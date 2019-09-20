@@ -12,8 +12,8 @@ Project  | Team | Members
  Glucose Monitor | Overbyte (OB) | Krysten Moore, Peixin Fan, Jiaxing Gui, Dylan Rogers
  Hydraulics Learning System | Court Street Coders (CSC) | Zak Inak, Nathan Nelson, Matt Albrinck, Corbin Dotson
  Office Availability | BCWB | Liam Buchy, Megh Oilwala, Ethan Malenchek, Spencer Gillam
+ Office/Room Availability | Code Well (CW) | Lydia Shiffler, Matthew Colvin, Marcus McKinley, Jake Cirino 
  Pace | It's a Secret (IAS) | Jordan Ball, Babacar Ndoye, Aubree Dix, Alex Bochenek
- Room Availability | Code Well (CW) | Lydia Shiffler, Matthew Colvin, Marcus McKinley, Jake Cirino 
  Russ College Chatbot | TBA |Jonathan Feige, Josh Wright, Michael Dinger, Logan Gordon
  Russ College Chatbot | SlothMonkey (SM) | Noah Jacobson, Kevin Renicker, Patrick McCann, Jason Wherry
  University Rover Challenge | Budget Wall-E (BW) | Logan Wilkovich, Neco Lubuguin, Nic Gill, Sean Jones
