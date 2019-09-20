@@ -2,9 +2,9 @@
 
 ## Projects
 
-Project  | Team
--------- | -----
- Russ College Chatbot | TBA
+Project  | Team | Members
+-------- | ----- | ------
+ Russ College Chatbot | TBA |Jonathan Feige, Josh Wright, Michael Dinger, Logan Gordon
  Russ College Chatbot | SlothMonkey (SM)
  EECS Advising        | 2000IQ
  EECS Advising        | Dregnum Co. (DC)
@@ -22,4 +22,4 @@ Project  | Team
 
 Team  | Members
 -------- | -----
-TBA |Jonathan Feige, Josh Wright, Michael Dinger, Logan Gordon
+TBA 
