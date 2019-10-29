@@ -4,7 +4,7 @@
 
 Project  | Team | Members
 -------- | ----- | ------
- AFFORDABLE | Lone Wolf Squad (LWS) | Ignatius Smith, Ethan Roush, Colin McKinley, Alya ElGamal
+ AFFORDABLE | Lone Wolf Squad (LWS) |  Alya ElGamal, Ethan Roush, Colin McKinley
  Campus Tour | Ctrl-Alt-Elite (CAE) | Amanda Holbrook, Daniel Ingram, Frank Macdonald, Jacob Frommeyer 
  Delayed Auditory Feedback | Not Sponsored by Redbull (NSR) | Wesley Ryder, David Kerka, Jared Chudzinski,Marc Baltes
  EECS Advising        | 2000IQ | Timothy Minear, Jesse Runner, Rory Dunne, Charlie Williams
